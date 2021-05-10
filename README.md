@@ -1,5 +1,6 @@
 # murmur-container
 A containerized mumble server
 
-### Prerequisites
-- Firewall allowing 64738/udp and 64738/tcp
+This repo contains configs and definitions for a containerized mumble server (Murmur). 
+
+
